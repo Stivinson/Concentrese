@@ -1,0 +1,8 @@
+.loginbox{width:300px;}
+.divlabel{font-weight:bold;width:30%;float:left;text-align: right;margin:3px;}
+.divcampo{float:left;width:60%;margin:3px;}
+.inputtext{width:99%;}
+.submit{width:100%;margin: 0 auto;}
+.centrado{text-align: center;margin: 0 auto}
+.tablero{margin: 0 auto;}
+.fichas{width:60px;height:60px;font-size:20px;font-weight: bolder;color:#aa0000;}
